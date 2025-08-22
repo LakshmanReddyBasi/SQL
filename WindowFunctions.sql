@@ -13,7 +13,7 @@ INSERT INTO Employees (Name, Age, Department, Salary) VALUES
 ('Ram', 28, 'Finance', 20000),
 ('Deep', 32, 'Sales', 30000),
 ('Pradeep', 29, 'Sales', 20000);
--------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 select * from employees
 
 -- 1. Aggregate Functions
